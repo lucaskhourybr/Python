@@ -1,4 +1,4 @@
-# Exercícios de Aula - SENAI
+# Exercícios de Aula - CURSO  ❤️ SENAI
 
 Bem-vindo ao meu repositório! 🎓
 
@@ -50,4 +50,3 @@ Se você tem alguma dúvida ou sugestão, entre em contato comigo:
 
 Email: lucas.khour1@outlook.com        |       LinkedIn: linkedin.com/in/seu-nome
 
-## Feito com ❤️ no SENAI.
