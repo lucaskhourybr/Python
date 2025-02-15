@@ -43,12 +43,12 @@ Estarei atualizando este repositório com novos exercícios e melhorias de forma
 Linguagens: Python 
 Ferramentas: Git, GitHub
 
-##🤝 Contribuições
+## 🤝 Contribuições
 Este repositório é de uso pessoal para fins de estudo. No entanto, se você deseja contribuir ou sugerir melhorias, sinta-se à vontade para abrir uma issue ou um pull request.
 
-##📫 Contato
+## 📫 Contato
 Se você tem alguma dúvida ou sugestão, entre em contato comigo:
 
-Email: lucas.khour1@outlook.com
-LinkedIn: linkedin.com/in/seu-nome
-Feito com ❤️ no SENAI.
+Email: lucas.khour1@outlook.com        |       LinkedIn: linkedin.com/in/seu-nome
+
+## Feito com ❤️ no SENAI.
