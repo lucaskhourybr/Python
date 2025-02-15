@@ -26,14 +26,14 @@ Execute o código:
 
 Cada exercício vem acompanhado de instruções para execução. Siga as instruções do arquivo de cada exercício para ver o código em funcionamento.
 
-## 💻 Exercícios
+## 💻 Exercícios      
+[Atalho](https://github.com/lucaskhourybr/Python/tree/main/Exerc%C3%ADcios)
+
 Aqui estão os tipos de exercício que você encontrará neste repositório:
 
 Exercícios de Lógica de Programação
 Projetos Práticos
 Algoritmos e Estruturas de Dados
-Desenvolvimento Web
-Bases de Dados e SQL
 Você pode navegar pelos diretórios ou visualizar os arquivos diretamente na raiz do repositório.
 
 ## 📅 Frequência de Atualizações
