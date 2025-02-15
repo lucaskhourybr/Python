@@ -15,9 +15,8 @@ O objetivo deste repositório é registrar e compartilhar os desafios e soluçõ
    Para começar, clone este repositório no seu computador:
    
    ```bash
-   git clone https://github.com/seu-usuario/exercicios-senai.git
-
-
+   git clone https://github.com/lucaskhourybr/Python.git
+   
    Navegue até o diretório do exercício:
 
 Após clonar o repositório, entre na pasta do exercício que você deseja explorar.
